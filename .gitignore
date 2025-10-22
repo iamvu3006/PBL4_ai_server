@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Model files (nếu bạn không muốn up model nặng)
+*.pkl
+
+# Logs & cache
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/

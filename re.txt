@@ -1,0 +1,22 @@
+# Requirements for Plant Disease Detection API Server
+
+# Web Framework
+flask==3.0.0
+flask-cors==4.0.0
+
+# Deep Learning
+tensorflow==2.10.0
+keras==2.10.0
+
+# Image Processing
+opencv-python==4.9.0.80
+Pillow==10.2.0
+
+# Data Processing
+numpy==1.23.5
+scikit-learn==1.2.2
+
+# Utilities
+werkzeug==3.0.1
+
+# t dung python ban 3.8.10 de load model a, co gi tai lai cac ban
